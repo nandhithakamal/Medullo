@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "190933225302",
+    "project_id": "firebase-medullo"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190933225302:android:6fb8c02c70189ab5",
+        "android_client_info": {
+          "package_name": "com.example.android.medullo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190933225302-qjb8unj7ltb91lr1rhtaha8085bntvp0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.medullo",
+            "certificate_hash": "79a602135dee1cd9e41a012a8340dc450223f1de"
+          }
+        },
+        {
+          "client_id": "190933225302-m1l6fnkt9r2mcjm22hs4b3hv1rpsqnfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2vVNFQvtod2uhQ4T9VQydvU_8c_GRQnE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
